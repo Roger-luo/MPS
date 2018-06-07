@@ -1,1 +1,1 @@
-# MPS Generative
+# MPS Generative Model
